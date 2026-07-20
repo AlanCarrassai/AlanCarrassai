@@ -1,5 +1,17 @@
-## Hi there 👋
+## 👋 Hello There!
 
+I'm Alan Carrassai, a Computer Science undergraduate based in Brazil.
+
+I'm currently focused on improving my frontend development skills while building a solid foundation in backend development.
+
+## 🛠️ Tools
+
+<p> HTML • CSS • JavaScript • C# • Unity • Python • MongoDB • Git • GitHub </p>
+
+## 📫 Connect with me
+
+LinkedIn: https://www.linkedin.com/in/alan-carrassai/
+Portfolio: Coming soon...
 <!--
 **AlanCarrassai/AlanCarrassai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
