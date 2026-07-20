@@ -2,28 +2,42 @@
 
 I'm Alan Carrassai, a Computer Science undergraduate based in Brazil.
 
-I'm currently focused on improving my frontend development skills while building a solid foundation in backend development. I'm also interested in game development with Unity and enjoy learning new technologies by building projects.
+I'm currently focused on frontend development while learning backend fundamentals. I also enjoy building games with Unity and creating projects that help me improve as a developer.
 
-## 🛠️ Tools
+This GitHub is where I share personal projects, experiments, and things I'm currently learning.
 
-<p> HTML • CSS • JavaScript • C# • Unity • Python • MongoDB • Git • GitHub </p>
+---
 
-## 📫 Connect with me
+## Tools & Tech
 
-LinkedIn: https://www.linkedin.com/in/alan-carrassai/
+- HTML, CSS, JavaScript
+- C#, Unity
+- Python
+- MongoDB
+- Git, GitHub
 
-Portfolio: Coming soon...
+---
+
+## A Bit About Me
+
+- 🎓 6th-semester Computer Science student
+- 🎮 Beginner Game Developer
+- 💀 Skeleton enthusiast
+- 💡 I enjoy building simple, useful software
+
+---
+
 <!--
-**AlanCarrassai/AlanCarrassai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Featured Projects
 
-Here are some ideas to get you started:
+- 🎮 Tower Defense (Unity / C#)
+- 🌐 Travel Agency Landing Page
+- 📚 MongoDB Library System
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+--- 
 -->
+
+## Contact
+
+- **[LinkedIn]**(https://www.linkedin.com/in/alan-carrassai/)
+- **Portfolio:** Coming soon...
