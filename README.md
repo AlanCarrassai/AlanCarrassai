@@ -2,7 +2,7 @@
 
 I'm Alan Carrassai, a Computer Science undergraduate based in Brazil.
 
-I'm currently focused on improving my frontend development skills while building a solid foundation in backend development.
+I'm currently focused on improving my frontend development skills while building a solid foundation in backend development. I'm also interested in game development with Unity and enjoy learning new technologies by building projects.
 
 ## 🛠️ Tools
 
@@ -11,6 +11,7 @@ I'm currently focused on improving my frontend development skills while building
 ## 📫 Connect with me
 
 LinkedIn: https://www.linkedin.com/in/alan-carrassai/
+
 Portfolio: Coming soon...
 <!--
 **AlanCarrassai/AlanCarrassai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
