@@ -39,5 +39,5 @@ This GitHub is where I share personal projects, experiments, and things I'm curr
 
 ## Contact
 
-- **[LinkedIn]**(https://www.linkedin.com/in/alan-carrassai/)
+- [LinkedIn](https://www.linkedin.com/in/alan-carrassai/)
 - **Portfolio:** Coming soon...
