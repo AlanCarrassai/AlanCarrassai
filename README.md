@@ -18,15 +18,6 @@ This GitHub is where I share personal projects, experiments, and things I'm curr
 
 ---
 
-## A Bit About Me
-
-- 🎓 6th-semester Computer Science student
-- 🎮 Beginner Game Developer
-- 💀 Skeleton enthusiast
-- 💡 I enjoy building simple, useful software
-
----
-
 <!--
 ## Featured Projects
 
@@ -40,4 +31,3 @@ This GitHub is where I share personal projects, experiments, and things I'm curr
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/alan-carrassai/)
-- **Portfolio:** Coming soon...
